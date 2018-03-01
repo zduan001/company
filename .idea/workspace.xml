@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/company/Main.java" line="242" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/company/Main.java" line="4589" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/company/Nov.java" line="2839" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/company/Nov.java" line="2844" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/company/Dec.java" line="1695" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/company/ub.java" line="156" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a179bca-3dcf-4ee8-b0d1-5c6d68c5f26c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="diff" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Nov.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Nov.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8940">
+              <caret line="3192" column="15" lean-forward="false" selection-start-line="3192" selection-start-column="15" selection-end-line="3192" selection-end-column="15" />
+              <folding>
+                <element signature="class#Solution518#0" expanded="false" />
+                <element signature="method#change#0;class#Solution518#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution518#0" expanded="false" />
+                <element signature="class#Solution518I#0" expanded="false" />
+                <element signature="method#change#0;class#Solution518I#0" expanded="false" />
+                <element signature="class#Solution520#0" expanded="false" />
+                <element signature="method#detectCapitalUse#0;class#Solution520#0" expanded="false" />
+                <element signature="class#Solution523#0" expanded="false" />
+                <element signature="method#checkSubarraySum#0;class#Solution523#0" expanded="false" />
+                <element signature="method#check0#0;class#Solution523#0" expanded="false" />
+                <element signature="class#Solution524#0" expanded="false" />
+                <element signature="method#findLongestWord#0;class#Solution524#0" expanded="false" />
+                <element signature="class#Solution525#0" expanded="false" />
+                <element signature="method#findMaxLength#0;class#Solution525#0" expanded="false" />
+                <element signature="class#Solution526#0" expanded="false" />
+                <element signature="method#countArrangement#0;class#Solution526#0" expanded="false" />
+                <element signature="method#helper#0;class#Solution526#0" expanded="false" />
+                <element signature="class#Solution526I#0" expanded="false" />
+                <element signature="method#countArrangement#0;class#Solution526I#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution526I#0" expanded="false" />
+                <element signature="class#Solution527#0" expanded="false" />
+                <element signature="method#wordsAbbreviation#0;class#Solution527#0" expanded="false" />
+                <element signature="method#makeAbbr#0;class#Solution527#0" expanded="false" />
+                <element signature="class#Solution529#0" expanded="false" />
+                <element signature="class#Point#0;class#Solution529#0" expanded="false" />
+                <element signature="method#Point#0;class#Point#0;class#Solution529#0" expanded="false" />
+                <element signature="method#updateBoard#0;class#Solution529#0" expanded="false" />
+                <element signature="class#Solution530#0" expanded="false" />
+                <element signature="class#Point#0;class#Solution530#0" expanded="false" />
+                <element signature="method#Point#0;class#Point#0;class#Solution530#0" expanded="false" />
+                <element signature="method#getMinimumDifference#0;class#Solution530#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution530#0" expanded="false" />
+                <element signature="class#Solution531#0" expanded="false" />
+                <element signature="method#findLonelyPixel#0;class#Solution531#0" expanded="false" />
+                <element signature="class#Solution532#0" expanded="false" />
+                <element signature="method#findPairs#0;class#Solution532#0" expanded="false" />
+                <element signature="method#checkzero#0;class#Solution532#0" expanded="false" />
+                <element signature="class#Solution536#0" expanded="false" />
+                <element signature="method#str2tree#0;class#Solution536#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution536#0" expanded="false" />
+                <element signature="class#Codec535#0" expanded="false" />
+                <element signature="method#encode#0;class#Codec535#0" expanded="false" />
+                <element signature="method#decode#0;class#Codec535#0" expanded="false" />
+                <element signature="class#Solution538#0" expanded="false" />
+                <element signature="method#convertBST#0;class#Solution538#0" expanded="false" />
+                <element signature="e#13392#13432#0" expanded="false" />
+                <element signature="method#convertBST#1;class#Solution538#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution538#0" expanded="false" />
+                <element signature="class#Solution539#0" expanded="false" />
+                <element signature="method#findMinDifference#0;class#Solution539#0" expanded="false" />
+                <element signature="method#compare#0;class#Solution539#0" expanded="false" />
+                <element signature="method#convert#0;class#Solution539#0" expanded="false" />
+                <element signature="class#Solution540#0" expanded="false" />
+                <element signature="method#singleNonDuplicate#0;class#Solution540#0" expanded="false" />
+                <element signature="class#Solution540I#0" expanded="false" />
+                <element signature="method#singleNonDuplicate#0;class#Solution540I#0" expanded="false" />
+                <element signature="class#Solution541#0" expanded="false" />
+                <element signature="method#reverseStr#0;class#Solution541#0" expanded="false" />
+                <element signature="method#reverse#0;class#Solution541#0" expanded="false" />
+                <element signature="class#Solution542#0" expanded="false" />
+                <element signature="method#updateMatrix#0;class#Solution542#0" expanded="false" />
+                <element signature="class#Solution543#0" expanded="false" />
+                <element signature="method#diameterOfBinaryTree#0;class#Solution543#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution543#0" expanded="false" />
+                <element signature="class#Solution544#0" expanded="false" />
+                <element signature="method#findContestMatch#0;class#Solution544#0" expanded="false" />
+                <element signature="class#Solution545#0" expanded="false" />
+                <element signature="method#boundaryOfBinaryTree#0;class#Solution545#0" expanded="false" />
+                <element signature="method#findLeft#0;class#Solution545#0" expanded="false" />
+                <element signature="e#20278#20300#0" expanded="false" />
+                <element signature="method#findBottomI#0;class#Solution545#0" expanded="false" />
+                <element signature="method#findBottom#0;class#Solution545#0" expanded="false" />
+                <element signature="method#findRight#0;class#Solution545#0" expanded="false" />
+                <element signature="e#21486#21535#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution545#0" expanded="false" />
+                <element signature="e#21841#21875#0" expanded="false" />
+                <element signature="method#findrightI#0;class#Solution545#0" expanded="false" />
+                <element signature="class#Solution545I#0" expanded="false" />
+                <element signature="method#boundaryOfBinaryTree#0;class#Solution545I#0" expanded="false" />
+                <element signature="method#findLeft#0;class#Solution545I#0" expanded="false" />
+                <element signature="method#findLeaf#0;class#Solution545I#0" expanded="false" />
+                <element signature="method#findRight#0;class#Solution545I#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution547#0" expanded="false" />
+                <element signature="class#Solution548#0" expanded="false" />
+                <element signature="method#splitArray#0;class#Solution548#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution548#0" expanded="false" />
+                <element signature="method#check#0;class#Solution548#0" expanded="false" />
+                <element signature="method#splitArrayI#0;class#Solution548#0" expanded="false" />
+                <element signature="class#Solution549#0" expanded="false" />
+                <element signature="method#longestConsecutive#0;class#Solution549#0" expanded="false" />
+                <element signature="method#pathLength#0;class#Solution549#0" expanded="false" />
+                <element signature="e#26630#26686#0" expanded="false" />
+                <element signature="e#27506#27549#0" expanded="false" />
+                <element signature="class#Solution551#0" expanded="false" />
+                <element signature="method#checkRecord#0;class#Solution551#0" expanded="false" />
+                <element signature="class#Solution553#0" expanded="false" />
+                <element signature="method#optimalDivision#0;class#Solution553#0" expanded="false" />
+                <element signature="class#Solution554#0" expanded="false" />
+                <element signature="method#leastBricks#0;class#Solution554#0" expanded="false" />
+                <element signature="class#Solution557#0" expanded="false" />
+                <element signature="method#reverseWords#0;class#Solution557#0" expanded="false" />
+                <element signature="method#rev#0;class#Solution557#0" expanded="false" />
+                <element signature="class#Solution560#0" expanded="false" />
+                <element signature="method#subarraySum#0;class#Solution560#0" expanded="false" />
+                <element signature="class#Solution562#0" expanded="false" />
+                <element signature="method#longestLine#0;class#Solution562#0" expanded="false" />
+                <element signature="method#process#0;class#Solution562#0" expanded="false" />
+                <element signature="class#Solution563#0" expanded="false" />
+                <element signature="method#findTilt#0;class#Solution563#0" expanded="false" />
+                <element signature="method#tilt#0;class#Solution563#0" expanded="false" />
+                <element signature="class#Solution566#0" expanded="false" />
+                <element signature="method#matrixReshape#0;class#Solution566#0" expanded="false" />
+                <element signature="class#Solution567#0" expanded="false" />
+                <element signature="method#checkInclusion#0;class#Solution567#0" expanded="false" />
+                <element signature="method#check#0;class#Solution567#0" expanded="false" />
+                <element signature="class#Solution573#0" expanded="false" />
+                <element signature="method#minDistance#0;class#Solution573#0" expanded="false" />
+                <element signature="class#Solution575#0" expanded="false" />
+                <element signature="method#distributeCandies#0;class#Solution575#0" expanded="false" />
+                <element signature="class#Solution576#0" expanded="false" />
+                <element signature="method#findPaths#0;class#Solution576#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution576#0" expanded="false" />
+                <element signature="class#Solution581#0" expanded="false" />
+                <element signature="method#findUnsortedSubarray#0;class#Solution581#0" expanded="false" />
+                <element signature="class#Solution582#0" expanded="false" />
+                <element signature="method#killProcess#0;class#Solution582#0" expanded="false" />
+                <element signature="class#Solution583#0" expanded="false" />
+                <element signature="method#minDistance#0;class#Solution583#0" expanded="false" />
+                <element signature="class#Solution593#0" expanded="false" />
+                <element signature="method#validSquare#0;class#Solution593#0" expanded="false" />
+                <element signature="method#dist#0;class#Solution593#0" expanded="false" />
+                <element signature="class#Solution594#0" expanded="false" />
+                <element signature="method#findLHS#0;class#Solution594#0" expanded="false" />
+                <element signature="class#Solution598#0" expanded="false" />
+                <element signature="method#maxCount#0;class#Solution598#0" expanded="false" />
+                <element signature="class#Solution599#0" expanded="false" />
+                <element signature="method#findRestaurant#0;class#Solution599#0" expanded="false" />
+                <element signature="class#StringIterator604#0" expanded="false" />
+                <element signature="class#Pair#0;class#StringIterator604#0" expanded="false" />
+                <element signature="method#Pair#0;class#Pair#0;class#StringIterator604#0" expanded="false" />
+                <element signature="method#StringIterator604#0;class#StringIterator604#0" expanded="false" />
+                <element signature="method#next#0;class#StringIterator604#0" expanded="false" />
+                <element signature="method#hasNext#0;class#StringIterator604#0" expanded="false" />
+                <element signature="class#Solution605#0" expanded="false" />
+                <element signature="method#canPlaceFlowers#0;class#Solution605#0" expanded="false" />
+                <element signature="class#Solution606#0" expanded="false" />
+                <element signature="method#tree2str#0;class#Solution606#0" expanded="false" />
+                <element signature="method#str#0;class#Solution606#0" expanded="false" />
+                <element signature="class#Solution607#0" expanded="false" />
+                <element signature="method#triangleNumber#0;class#Solution607#0" expanded="false" />
+                <element signature="class#Solution616#0" expanded="false" />
+                <element signature="method#addBoldTag#0;class#Solution616#0" expanded="false" />
+                <element signature="class#Solution617#0" expanded="false" />
+                <element signature="method#mergeTrees#0;class#Solution617#0" expanded="false" />
+                <element signature="class#Solution621#0" expanded="false" />
+                <element signature="class#Solution623#0" expanded="false" />
+                <element signature="method#addOneRow#0;class#Solution623#0" expanded="false" />
+                <element signature="class#Solution624#0" expanded="false" />
+                <element signature="method#maxDistance#0;class#Solution624#0" expanded="false" />
+                <element signature="class#Solution625#0" expanded="false" />
+                <element signature="method#smallestFactorization#0;class#Solution625#0" expanded="false" />
+                <element signature="class#Solution626#0" expanded="false" />
+                <element signature="method#maximumProduct#0;class#Solution626#0" expanded="false" />
+                <element signature="class#Solution630#0" expanded="false" />
+                <element signature="method#scheduleCourse#0;class#Solution630#0" expanded="false" />
+                <element signature="class#Solution632#0" expanded="false" />
+                <element signature="method#smallestRange#0;class#Solution632#0" expanded="false" />
+                <element signature="class#Solution633#0" expanded="false" />
+                <element signature="method#judgeSquareSum#0;class#Solution633#0" expanded="false" />
+                <element signature="class#Solution634#0" expanded="false" />
+                <element signature="method#findDerangement#0;class#Solution634#0" expanded="false" />
+                <element signature="e#51455#51501#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution634#0" expanded="false" />
+                <element signature="class#LogSystem635#0" expanded="false" />
+                <element signature="method#LogSystem635#0;class#LogSystem635#0" expanded="false" />
+                <element signature="method#put#0;class#LogSystem635#0" expanded="false" />
+                <element signature="method#retrieve#0;class#LogSystem635#0" expanded="false" />
+                <element signature="method#large#0;class#LogSystem635#0" expanded="false" />
+                <element signature="class#Solution636#0" expanded="false" />
+                <element signature="method#exclusiveTime#0;class#Solution636#0" expanded="false" />
+                <element signature="class#Solution637#0" expanded="false" />
+                <element signature="method#averageOfLevels#0;class#Solution637#0" expanded="false" />
+                <element signature="class#Solution638#0" expanded="false" />
+                <element signature="method#shoppingOffers#0;class#Solution638#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution638#0" expanded="false" />
+                <element signature="class#Solution639#0" expanded="false" />
+                <element signature="method#numDecodings#0;class#Solution639#0" expanded="false" />
+                <element signature="class#Solution640#0" expanded="false" />
+                <element signature="method#solveEquation#0;class#Solution640#0" expanded="false" />
+                <element signature="class#AutocompleteSystem#0" expanded="false" />
+                <element signature="class#Record#0;class#AutocompleteSystem#0" expanded="false" />
+                <element signature="method#Record#0;class#Record#0;class#AutocompleteSystem#0" expanded="false" />
+                <element signature="class#AutocomleteTreeNode#0;class#AutocompleteSystem#0" expanded="false" />
+                <element signature="method#AutocomleteTreeNode#0;class#AutocomleteTreeNode#0;class#AutocompleteSystem#0" expanded="false" />
+                <element signature="method#AutocompleteSystem#0;class#AutocompleteSystem#0" expanded="false" />
+                <element signature="class#Solution643#0" expanded="false" />
+                <element signature="method#findMaxAverage#0;class#Solution643#0" expanded="false" />
+                <element signature="class#Solution645#0" expanded="false" />
+                <element signature="method#findErrorNums#0;class#Solution645#0" expanded="false" />
+                <element signature="class#Solution646#0" expanded="false" />
+                <element signature="method#findLongestChain#0;class#Solution646#0" expanded="false" />
+                <element signature="class#Solution649#0" expanded="false" />
+                <element signature="method#countSubstrings#0;class#Solution649#0" expanded="false" />
+                <element signature="method#count#0;class#Solution649#0" expanded="false" />
+                <element signature="method#count2#0;class#Solution649#0" expanded="false" />
+                <element signature="class#Solution648#0" expanded="false" />
+                <element signature="method#replaceWords#0;class#Solution648#0" expanded="false" />
+                <element signature="class#Solution650#0" expanded="false" />
+                <element signature="method#minSteps#0;class#Solution650#0" expanded="false" />
+                <element signature="class#Solution652#0" expanded="false" />
+                <element signature="method#findDuplicateSubtrees#0;class#Solution652#0" expanded="false" />
+                <element signature="method#postOrder#0;class#Solution652#0" expanded="false" />
+                <element signature="class#Solution653#0" expanded="false" />
+                <element signature="method#findTarget#0;class#Solution653#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution653#0" expanded="false" />
+                <element signature="class#Solution654#0" expanded="false" />
+                <element signature="method#recur#0;class#Solution654#0" expanded="false" />
+                <element signature="class#Solution655#0" expanded="false" />
+                <element signature="method#printTree#0;class#Solution655#0" expanded="false" />
+                <element signature="method#height#0;class#Solution655#0" expanded="false" />
+                <element signature="method#getWidth#0;class#Solution655#0" expanded="false" />
+                <element signature="method#print#0;class#Solution655#0" expanded="false" />
+                <element signature="class#Solution656#0" expanded="false" />
+                <element signature="class#Pair#0;class#Solution656#0" expanded="false" />
+                <element signature="method#Pair#0;class#Pair#0;class#Solution656#0" expanded="false" />
+                <element signature="method#cheapestJump#0;class#Solution656#0" expanded="false" />
+                <element signature="class#Solution657#0" expanded="false" />
+                <element signature="method#judgeCircle#0;class#Solution657#0" expanded="false" />
+                <element signature="class#Solution658#0" expanded="false" />
+                <element signature="method#findClosestElements#0;class#Solution658#0" expanded="false" />
+                <element signature="class#Solution659#0" expanded="false" />
+                <element signature="method#isPossible#0;class#Solution659#0" expanded="false" />
+                <element signature="class#Solution660#0" expanded="false" />
+                <element signature="method#newInteger#0;class#Solution660#0" expanded="false" />
+                <element signature="class#Solution662#0" expanded="false" />
+                <element signature="class#Pair#0;class#Solution662#0" expanded="false" />
+                <element signature="method#Pair#0;class#Pair#0;class#Solution662#0" expanded="false" />
+                <element signature="method#widthOfBinaryTree#0;class#Solution662#0" expanded="false" />
+                <element signature="class#Solution665#0" expanded="false" />
+                <element signature="method#checkPossibility#0;class#Solution665#0" expanded="false" />
+                <element signature="class#Solution669#0" expanded="false" />
+                <element signature="method#trimBST#0;class#Solution669#0" expanded="false" />
+                <element signature="class#Solution670#0" expanded="false" />
+                <element signature="method#maximumSwap#0;class#Solution670#0" expanded="false" />
+                <element signature="class#Solution671#0" expanded="false" />
+                <element signature="method#findSecondMinimumValue#0;class#Solution671#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution671#0" expanded="false" />
+                <element signature="method#check#0;class#Solution671#0" expanded="false" />
+                <element signature="class#Solution673#0" expanded="false" />
+                <element signature="method#findNumberOfLIS#0;class#Solution673#0" expanded="false" />
+                <element signature="class#Solution674#0" expanded="false" />
+                <element signature="method#findLengthOfLCIS#0;class#Solution674#0" expanded="false" />
+                <element signature="class#Solution678#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution678#0" expanded="false" />
+                <element signature="method#Interval#0;class#Interval#0;class#MyCalendar#0" expanded="false" />
+                <element signature="method#Interval#1;class#Interval#0;class#MyCalendar#0" expanded="false" />
+                <element signature="method#book#0;class#MyCalendar#0" expanded="false" />
+                <element signature="class#MyCalendarTwo#0" expanded="false" />
+                <element signature="class#Interval#0;class#MyCalendarTwo#0" expanded="false" />
+                <element signature="method#Interval#0;class#Interval#0;class#MyCalendarTwo#0" expanded="false" />
+                <element signature="method#Interval#1;class#Interval#0;class#MyCalendarTwo#0" expanded="false" />
+                <element signature="method#book#0;class#MyCalendarTwo#0" expanded="false" />
+                <element signature="class#Solution728#0" expanded="false" />
+                <element signature="method#selfDividingNumbers#0;class#Solution728#0" expanded="false" />
+                <element signature="method#isSelfDividing#0;class#Solution728#0" expanded="false" />
+                <element signature="class#Solution683#0" expanded="false" />
+                <element signature="method#kEmptySlots#0;class#Solution683#0" expanded="false" />
+                <element signature="class#Solution726#0" expanded="false" />
+                <element signature="method#countOfAtoms#0;class#Solution726#0" expanded="false" />
+                <element signature="method#dfs#0;class#Solution726#0" expanded="false" />
+                <element signature="method#getName#0;class#Solution726#0" expanded="false" />
+                <element signature="method#getCount#0;class#Solution726#0" expanded="false" />
+                <element signature="method#Interval#0;class#Interval#0;class#Solution699#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dec.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Dec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7590">
+              <caret line="512" column="0" lean-forward="false" selection-start-line="512" selection-start-column="0" selection-end-line="512" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Feb.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Feb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="404" column="14" lean-forward="false" selection-start-line="404" selection-start-column="14" selection-end-line="404" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/sc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17040">
+              <caret line="1136" column="5" lean-forward="false" selection-start-line="1136" selection-start-column="5" selection-end-line="1136" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#25929#25930#0" expanded="true" />
+                <element signature="e#25983#25984#0" expanded="true" />
+                <element signature="method#isInteger#0;class#NestedInteger#0;class#Solution_385_I#0" expanded="false" />
+                <element signature="method#getInteger#0;class#NestedInteger#0;class#Solution_385_I#0" expanded="false" />
+                <element signature="method#setInteger#0;class#NestedInteger#0;class#Solution_385_I#0" expanded="false" />
+                <element signature="e#32447#32448#0" expanded="true" />
+                <element signature="e#32514#32515#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lyft.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/lyft.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5100">
+              <caret line="359" column="9" lean-forward="false" selection-start-line="359" selection-start-column="9" selection-end-line="359" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ub.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/ub.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8535">
+              <caret line="569" column="21" lean-forward="false" selection-start-line="569" selection-start-column="21" selection-end-line="569" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="871" column="36" lean-forward="true" selection-start-line="871" selection-start-column="36" selection-end-line="871" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>segment</find>
+      <find>interval</find>
+      <find>inorder</find>
+      <find>codec</find>
+      <find>57</find>
+      <find>39</find>
+      <find>254</find>
+      <find>Solution40</find>
+      <find>URI</find>
+      <find>mapLock</find>
+      <find>uri</find>
+      <find>l &lt;= n</find>
+      <find>317</find>
+      <find>shortestDistance</find>
+      <find>p16</find>
+      <find>MessageDigest</find>
+      <find>EmptyValueException</find>
+      <find>Uri</find>
+      <find>Solution145</find>
+      <find>498</find>
+      <find>305</find>
+      <find>32</find>
+      <find>Amicable</find>
+      <find>p6</find>
+      <find>p8</find>
+      <find>NestedInteger</find>
+      <find>process</find>
+      <find>p14</find>
+      <find>p5</find>
+      <find>p4</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/DirectedCycle.java" />
+        <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/EdgeWeightedGraph.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Trie.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BoundedBuffer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Dec.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lyft.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ub.java" />
+        <option value="$PROJECT_DIR$/src/com/company/sc.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Nov.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Feb.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="726" />
+    <option name="y" value="23" />
+    <option name="width" value="711" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="diff" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a179bca-3dcf-4ee8-b0d1-5c6d68c5f26c" name="Default" comment="" />
+      <created>1507325559043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507325559043</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="726" y="23" width="711" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41242236" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Buck" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26153848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29368576" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34409937" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264463" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="746" y="123" width="594" height="677" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55031055" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Buck" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2583851" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41490683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="746" y="123" width="594" height="677" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26153848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29368576" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55031055" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264463" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>6502</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Nov.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>433</line>
+          <properties />
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Nov.java</url>
+          <line>2424</line>
+          <properties />
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Nov.java</url>
+          <line>2427</line>
+          <properties />
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Nov.java</url>
+          <line>2655</line>
+          <properties />
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Nov.java</url>
+          <line>3368</line>
+          <properties />
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Dec.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Dec.java</url>
+          <line>476</line>
+          <properties />
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Dec.java</url>
+          <line>1066</line>
+          <properties />
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Dec.java</url>
+          <line>1147</line>
+          <properties />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Dec.java</url>
+          <line>3262</line>
+          <properties />
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>859</line>
+          <properties />
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="417" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/Cycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/QuickFindUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="186" column="9" lean-forward="true" selection-start-line="186" selection-start-column="9" selection-end-line="186" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/UF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="69" column="55" lean-forward="true" selection-start-line="69" selection-start-column="55" selection-end-line="69" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/MinPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/StdOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/QuickUnionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="188" column="20" lean-forward="false" selection-start-line="188" selection-start-column="20" selection-end-line="188" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/EulerianCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="90" column="29" lean-forward="false" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45840">
+          <caret line="3127" column="23" lean-forward="false" selection-start-line="3127" selection-start-column="23" selection-end-line="3127" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="120" column="11" lean-forward="false" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16035">
+          <caret line="1136" column="37" lean-forward="false" selection-start-line="1136" selection-start-column="33" selection-end-line="1136" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/EulerianPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1930">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="709" column="14" lean-forward="false" selection-start-line="709" selection-start-column="14" selection-end-line="709" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="147" column="15" lean-forward="false" selection-start-line="147" selection-start-column="15" selection-end-line="147" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/Topological.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="158" column="5" lean-forward="false" selection-start-line="158" selection-start-column="5" selection-end-line="158" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="164" column="25" lean-forward="false" selection-start-line="164" selection-start-column="25" selection-end-line="164" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/CharacterDataLatin1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="195" column="0" lean-forward="false" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="657" column="0" lean-forward="false" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="476" column="0" lean-forward="false" selection-start-line="476" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="458" column="0" lean-forward="false" selection-start-line="458" selection-start-column="0" selection-end-line="458" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="707" column="12" lean-forward="false" selection-start-line="707" selection-start-column="12" selection-end-line="707" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/CC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sn28qtw0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2655">
+          <caret line="12" column="5987" lean-forward="false" selection-start-line="12" selection-start-column="5987" selection-end-line="12" selection-end-column="5987" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/EdgeWeightedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="206" column="53" lean-forward="false" selection-start-line="206" selection-start-column="38" selection-end-line="206" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/PrimMST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="84" column="4" lean-forward="false" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/KruskalMST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="183" column="43" lean-forward="false" selection-start-line="183" selection-start-column="43" selection-end-line="183" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="66" column="40" lean-forward="false" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/BitSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8760">
+          <caret line="620" column="19" lean-forward="false" selection-start-line="620" selection-start-column="19" selection-end-line="620" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/SegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentLinkedDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="963" column="13" lean-forward="false" selection-start-line="963" selection-start-column="13" selection-end-line="963" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1494" column="33" lean-forward="false" selection-start-line="1494" selection-start-column="33" selection-end-line="1494" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/DepthFirstOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/security/MessageDigest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-496">
+          <caret line="105" column="22" lean-forward="false" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lyft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5100">
+          <caret line="359" column="9" lean-forward="false" selection-start-line="359" selection-start-column="9" selection-end-line="359" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="579" column="0" lean-forward="false" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/BoundedBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="53" column="14" lean-forward="false" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8535">
+          <caret line="569" column="21" lean-forward="false" selection-start-line="569" selection-start-column="21" selection-end-line="569" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/DirectedCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="80" column="28" lean-forward="false" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/DijkstraSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="215" column="60" lean-forward="true" selection-start-line="215" selection-start-column="60" selection-end-line="215" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/EdgeWeightedDigraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="133" column="15" lean-forward="false" selection-start-line="133" selection-start-column="15" selection-end-line="133" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/princeton/cs/algs4/IndexMinPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Dec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7590">
+          <caret line="512" column="0" lean-forward="false" selection-start-line="512" selection-start-column="0" selection-end-line="512" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/sc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17040">
+          <caret line="1136" column="5" lean-forward="false" selection-start-line="1136" selection-start-column="5" selection-end-line="1136" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#25929#25930#0" expanded="true" />
+            <element signature="e#25983#25984#0" expanded="true" />
+            <element signature="method#isInteger#0;class#NestedInteger#0;class#Solution_385_I#0" expanded="false" />
+            <element signature="method#getInteger#0;class#NestedInteger#0;class#Solution_385_I#0" expanded="false" />
+            <element signature="method#setInteger#0;class#NestedInteger#0;class#Solution_385_I#0" expanded="false" />
+            <element signature="e#32447#32448#0" expanded="true" />
+            <element signature="e#32514#32515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Nov.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8940">
+          <caret line="3192" column="15" lean-forward="false" selection-start-line="3192" selection-start-column="15" selection-end-line="3192" selection-end-column="15" />
+          <folding>
+            <element signature="class#Solution518#0" expanded="false" />
+            <element signature="method#change#0;class#Solution518#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution518#0" expanded="false" />
+            <element signature="class#Solution518I#0" expanded="false" />
+            <element signature="method#change#0;class#Solution518I#0" expanded="false" />
+            <element signature="class#Solution520#0" expanded="false" />
+            <element signature="method#detectCapitalUse#0;class#Solution520#0" expanded="false" />
+            <element signature="class#Solution523#0" expanded="false" />
+            <element signature="method#checkSubarraySum#0;class#Solution523#0" expanded="false" />
+            <element signature="method#check0#0;class#Solution523#0" expanded="false" />
+            <element signature="class#Solution524#0" expanded="false" />
+            <element signature="method#findLongestWord#0;class#Solution524#0" expanded="false" />
+            <element signature="class#Solution525#0" expanded="false" />
+            <element signature="method#findMaxLength#0;class#Solution525#0" expanded="false" />
+            <element signature="class#Solution526#0" expanded="false" />
+            <element signature="method#countArrangement#0;class#Solution526#0" expanded="false" />
+            <element signature="method#helper#0;class#Solution526#0" expanded="false" />
+            <element signature="class#Solution526I#0" expanded="false" />
+            <element signature="method#countArrangement#0;class#Solution526I#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution526I#0" expanded="false" />
+            <element signature="class#Solution527#0" expanded="false" />
+            <element signature="method#wordsAbbreviation#0;class#Solution527#0" expanded="false" />
+            <element signature="method#makeAbbr#0;class#Solution527#0" expanded="false" />
+            <element signature="class#Solution529#0" expanded="false" />
+            <element signature="class#Point#0;class#Solution529#0" expanded="false" />
+            <element signature="method#Point#0;class#Point#0;class#Solution529#0" expanded="false" />
+            <element signature="method#updateBoard#0;class#Solution529#0" expanded="false" />
+            <element signature="class#Solution530#0" expanded="false" />
+            <element signature="class#Point#0;class#Solution530#0" expanded="false" />
+            <element signature="method#Point#0;class#Point#0;class#Solution530#0" expanded="false" />
+            <element signature="method#getMinimumDifference#0;class#Solution530#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution530#0" expanded="false" />
+            <element signature="class#Solution531#0" expanded="false" />
+            <element signature="method#findLonelyPixel#0;class#Solution531#0" expanded="false" />
+            <element signature="class#Solution532#0" expanded="false" />
+            <element signature="method#findPairs#0;class#Solution532#0" expanded="false" />
+            <element signature="method#checkzero#0;class#Solution532#0" expanded="false" />
+            <element signature="class#Solution536#0" expanded="false" />
+            <element signature="method#str2tree#0;class#Solution536#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution536#0" expanded="false" />
+            <element signature="class#Codec535#0" expanded="false" />
+            <element signature="method#encode#0;class#Codec535#0" expanded="false" />
+            <element signature="method#decode#0;class#Codec535#0" expanded="false" />
+            <element signature="class#Solution538#0" expanded="false" />
+            <element signature="method#convertBST#0;class#Solution538#0" expanded="false" />
+            <element signature="e#13392#13432#0" expanded="false" />
+            <element signature="method#convertBST#1;class#Solution538#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution538#0" expanded="false" />
+            <element signature="class#Solution539#0" expanded="false" />
+            <element signature="method#findMinDifference#0;class#Solution539#0" expanded="false" />
+            <element signature="method#compare#0;class#Solution539#0" expanded="false" />
+            <element signature="method#convert#0;class#Solution539#0" expanded="false" />
+            <element signature="class#Solution540#0" expanded="false" />
+            <element signature="method#singleNonDuplicate#0;class#Solution540#0" expanded="false" />
+            <element signature="class#Solution540I#0" expanded="false" />
+            <element signature="method#singleNonDuplicate#0;class#Solution540I#0" expanded="false" />
+            <element signature="class#Solution541#0" expanded="false" />
+            <element signature="method#reverseStr#0;class#Solution541#0" expanded="false" />
+            <element signature="method#reverse#0;class#Solution541#0" expanded="false" />
+            <element signature="class#Solution542#0" expanded="false" />
+            <element signature="method#updateMatrix#0;class#Solution542#0" expanded="false" />
+            <element signature="class#Solution543#0" expanded="false" />
+            <element signature="method#diameterOfBinaryTree#0;class#Solution543#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution543#0" expanded="false" />
+            <element signature="class#Solution544#0" expanded="false" />
+            <element signature="method#findContestMatch#0;class#Solution544#0" expanded="false" />
+            <element signature="class#Solution545#0" expanded="false" />
+            <element signature="method#boundaryOfBinaryTree#0;class#Solution545#0" expanded="false" />
+            <element signature="method#findLeft#0;class#Solution545#0" expanded="false" />
+            <element signature="e#20278#20300#0" expanded="false" />
+            <element signature="method#findBottomI#0;class#Solution545#0" expanded="false" />
+            <element signature="method#findBottom#0;class#Solution545#0" expanded="false" />
+            <element signature="method#findRight#0;class#Solution545#0" expanded="false" />
+            <element signature="e#21486#21535#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution545#0" expanded="false" />
+            <element signature="e#21841#21875#0" expanded="false" />
+            <element signature="method#findrightI#0;class#Solution545#0" expanded="false" />
+            <element signature="class#Solution545I#0" expanded="false" />
+            <element signature="method#boundaryOfBinaryTree#0;class#Solution545I#0" expanded="false" />
+            <element signature="method#findLeft#0;class#Solution545I#0" expanded="false" />
+            <element signature="method#findLeaf#0;class#Solution545I#0" expanded="false" />
+            <element signature="method#findRight#0;class#Solution545I#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution547#0" expanded="false" />
+            <element signature="class#Solution548#0" expanded="false" />
+            <element signature="method#splitArray#0;class#Solution548#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution548#0" expanded="false" />
+            <element signature="method#check#0;class#Solution548#0" expanded="false" />
+            <element signature="method#splitArrayI#0;class#Solution548#0" expanded="false" />
+            <element signature="class#Solution549#0" expanded="false" />
+            <element signature="method#longestConsecutive#0;class#Solution549#0" expanded="false" />
+            <element signature="method#pathLength#0;class#Solution549#0" expanded="false" />
+            <element signature="e#26630#26686#0" expanded="false" />
+            <element signature="e#27506#27549#0" expanded="false" />
+            <element signature="class#Solution551#0" expanded="false" />
+            <element signature="method#checkRecord#0;class#Solution551#0" expanded="false" />
+            <element signature="class#Solution553#0" expanded="false" />
+            <element signature="method#optimalDivision#0;class#Solution553#0" expanded="false" />
+            <element signature="class#Solution554#0" expanded="false" />
+            <element signature="method#leastBricks#0;class#Solution554#0" expanded="false" />
+            <element signature="class#Solution557#0" expanded="false" />
+            <element signature="method#reverseWords#0;class#Solution557#0" expanded="false" />
+            <element signature="method#rev#0;class#Solution557#0" expanded="false" />
+            <element signature="class#Solution560#0" expanded="false" />
+            <element signature="method#subarraySum#0;class#Solution560#0" expanded="false" />
+            <element signature="class#Solution562#0" expanded="false" />
+            <element signature="method#longestLine#0;class#Solution562#0" expanded="false" />
+            <element signature="method#process#0;class#Solution562#0" expanded="false" />
+            <element signature="class#Solution563#0" expanded="false" />
+            <element signature="method#findTilt#0;class#Solution563#0" expanded="false" />
+            <element signature="method#tilt#0;class#Solution563#0" expanded="false" />
+            <element signature="class#Solution566#0" expanded="false" />
+            <element signature="method#matrixReshape#0;class#Solution566#0" expanded="false" />
+            <element signature="class#Solution567#0" expanded="false" />
+            <element signature="method#checkInclusion#0;class#Solution567#0" expanded="false" />
+            <element signature="method#check#0;class#Solution567#0" expanded="false" />
+            <element signature="class#Solution573#0" expanded="false" />
+            <element signature="method#minDistance#0;class#Solution573#0" expanded="false" />
+            <element signature="class#Solution575#0" expanded="false" />
+            <element signature="method#distributeCandies#0;class#Solution575#0" expanded="false" />
+            <element signature="class#Solution576#0" expanded="false" />
+            <element signature="method#findPaths#0;class#Solution576#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution576#0" expanded="false" />
+            <element signature="class#Solution581#0" expanded="false" />
+            <element signature="method#findUnsortedSubarray#0;class#Solution581#0" expanded="false" />
+            <element signature="class#Solution582#0" expanded="false" />
+            <element signature="method#killProcess#0;class#Solution582#0" expanded="false" />
+            <element signature="class#Solution583#0" expanded="false" />
+            <element signature="method#minDistance#0;class#Solution583#0" expanded="false" />
+            <element signature="class#Solution593#0" expanded="false" />
+            <element signature="method#validSquare#0;class#Solution593#0" expanded="false" />
+            <element signature="method#dist#0;class#Solution593#0" expanded="false" />
+            <element signature="class#Solution594#0" expanded="false" />
+            <element signature="method#findLHS#0;class#Solution594#0" expanded="false" />
+            <element signature="class#Solution598#0" expanded="false" />
+            <element signature="method#maxCount#0;class#Solution598#0" expanded="false" />
+            <element signature="class#Solution599#0" expanded="false" />
+            <element signature="method#findRestaurant#0;class#Solution599#0" expanded="false" />
+            <element signature="class#StringIterator604#0" expanded="false" />
+            <element signature="class#Pair#0;class#StringIterator604#0" expanded="false" />
+            <element signature="method#Pair#0;class#Pair#0;class#StringIterator604#0" expanded="false" />
+            <element signature="method#StringIterator604#0;class#StringIterator604#0" expanded="false" />
+            <element signature="method#next#0;class#StringIterator604#0" expanded="false" />
+            <element signature="method#hasNext#0;class#StringIterator604#0" expanded="false" />
+            <element signature="class#Solution605#0" expanded="false" />
+            <element signature="method#canPlaceFlowers#0;class#Solution605#0" expanded="false" />
+            <element signature="class#Solution606#0" expanded="false" />
+            <element signature="method#tree2str#0;class#Solution606#0" expanded="false" />
+            <element signature="method#str#0;class#Solution606#0" expanded="false" />
+            <element signature="class#Solution607#0" expanded="false" />
+            <element signature="method#triangleNumber#0;class#Solution607#0" expanded="false" />
+            <element signature="class#Solution616#0" expanded="false" />
+            <element signature="method#addBoldTag#0;class#Solution616#0" expanded="false" />
+            <element signature="class#Solution617#0" expanded="false" />
+            <element signature="method#mergeTrees#0;class#Solution617#0" expanded="false" />
+            <element signature="class#Solution621#0" expanded="false" />
+            <element signature="class#Solution623#0" expanded="false" />
+            <element signature="method#addOneRow#0;class#Solution623#0" expanded="false" />
+            <element signature="class#Solution624#0" expanded="false" />
+            <element signature="method#maxDistance#0;class#Solution624#0" expanded="false" />
+            <element signature="class#Solution625#0" expanded="false" />
+            <element signature="method#smallestFactorization#0;class#Solution625#0" expanded="false" />
+            <element signature="class#Solution626#0" expanded="false" />
+            <element signature="method#maximumProduct#0;class#Solution626#0" expanded="false" />
+            <element signature="class#Solution630#0" expanded="false" />
+            <element signature="method#scheduleCourse#0;class#Solution630#0" expanded="false" />
+            <element signature="class#Solution632#0" expanded="false" />
+            <element signature="method#smallestRange#0;class#Solution632#0" expanded="false" />
+            <element signature="class#Solution633#0" expanded="false" />
+            <element signature="method#judgeSquareSum#0;class#Solution633#0" expanded="false" />
+            <element signature="class#Solution634#0" expanded="false" />
+            <element signature="method#findDerangement#0;class#Solution634#0" expanded="false" />
+            <element signature="e#51455#51501#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution634#0" expanded="false" />
+            <element signature="class#LogSystem635#0" expanded="false" />
+            <element signature="method#LogSystem635#0;class#LogSystem635#0" expanded="false" />
+            <element signature="method#put#0;class#LogSystem635#0" expanded="false" />
+            <element signature="method#retrieve#0;class#LogSystem635#0" expanded="false" />
+            <element signature="method#large#0;class#LogSystem635#0" expanded="false" />
+            <element signature="class#Solution636#0" expanded="false" />
+            <element signature="method#exclusiveTime#0;class#Solution636#0" expanded="false" />
+            <element signature="class#Solution637#0" expanded="false" />
+            <element signature="method#averageOfLevels#0;class#Solution637#0" expanded="false" />
+            <element signature="class#Solution638#0" expanded="false" />
+            <element signature="method#shoppingOffers#0;class#Solution638#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution638#0" expanded="false" />
+            <element signature="class#Solution639#0" expanded="false" />
+            <element signature="method#numDecodings#0;class#Solution639#0" expanded="false" />
+            <element signature="class#Solution640#0" expanded="false" />
+            <element signature="method#solveEquation#0;class#Solution640#0" expanded="false" />
+            <element signature="class#AutocompleteSystem#0" expanded="false" />
+            <element signature="class#Record#0;class#AutocompleteSystem#0" expanded="false" />
+            <element signature="method#Record#0;class#Record#0;class#AutocompleteSystem#0" expanded="false" />
+            <element signature="class#AutocomleteTreeNode#0;class#AutocompleteSystem#0" expanded="false" />
+            <element signature="method#AutocomleteTreeNode#0;class#AutocomleteTreeNode#0;class#AutocompleteSystem#0" expanded="false" />
+            <element signature="method#AutocompleteSystem#0;class#AutocompleteSystem#0" expanded="false" />
+            <element signature="class#Solution643#0" expanded="false" />
+            <element signature="method#findMaxAverage#0;class#Solution643#0" expanded="false" />
+            <element signature="class#Solution645#0" expanded="false" />
+            <element signature="method#findErrorNums#0;class#Solution645#0" expanded="false" />
+            <element signature="class#Solution646#0" expanded="false" />
+            <element signature="method#findLongestChain#0;class#Solution646#0" expanded="false" />
+            <element signature="class#Solution649#0" expanded="false" />
+            <element signature="method#countSubstrings#0;class#Solution649#0" expanded="false" />
+            <element signature="method#count#0;class#Solution649#0" expanded="false" />
+            <element signature="method#count2#0;class#Solution649#0" expanded="false" />
+            <element signature="class#Solution648#0" expanded="false" />
+            <element signature="method#replaceWords#0;class#Solution648#0" expanded="false" />
+            <element signature="class#Solution650#0" expanded="false" />
+            <element signature="method#minSteps#0;class#Solution650#0" expanded="false" />
+            <element signature="class#Solution652#0" expanded="false" />
+            <element signature="method#findDuplicateSubtrees#0;class#Solution652#0" expanded="false" />
+            <element signature="method#postOrder#0;class#Solution652#0" expanded="false" />
+            <element signature="class#Solution653#0" expanded="false" />
+            <element signature="method#findTarget#0;class#Solution653#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution653#0" expanded="false" />
+            <element signature="class#Solution654#0" expanded="false" />
+            <element signature="method#recur#0;class#Solution654#0" expanded="false" />
+            <element signature="class#Solution655#0" expanded="false" />
+            <element signature="method#printTree#0;class#Solution655#0" expanded="false" />
+            <element signature="method#height#0;class#Solution655#0" expanded="false" />
+            <element signature="method#getWidth#0;class#Solution655#0" expanded="false" />
+            <element signature="method#print#0;class#Solution655#0" expanded="false" />
+            <element signature="class#Solution656#0" expanded="false" />
+            <element signature="class#Pair#0;class#Solution656#0" expanded="false" />
+            <element signature="method#Pair#0;class#Pair#0;class#Solution656#0" expanded="false" />
+            <element signature="method#cheapestJump#0;class#Solution656#0" expanded="false" />
+            <element signature="class#Solution657#0" expanded="false" />
+            <element signature="method#judgeCircle#0;class#Solution657#0" expanded="false" />
+            <element signature="class#Solution658#0" expanded="false" />
+            <element signature="method#findClosestElements#0;class#Solution658#0" expanded="false" />
+            <element signature="class#Solution659#0" expanded="false" />
+            <element signature="method#isPossible#0;class#Solution659#0" expanded="false" />
+            <element signature="class#Solution660#0" expanded="false" />
+            <element signature="method#newInteger#0;class#Solution660#0" expanded="false" />
+            <element signature="class#Solution662#0" expanded="false" />
+            <element signature="class#Pair#0;class#Solution662#0" expanded="false" />
+            <element signature="method#Pair#0;class#Pair#0;class#Solution662#0" expanded="false" />
+            <element signature="method#widthOfBinaryTree#0;class#Solution662#0" expanded="false" />
+            <element signature="class#Solution665#0" expanded="false" />
+            <element signature="method#checkPossibility#0;class#Solution665#0" expanded="false" />
+            <element signature="class#Solution669#0" expanded="false" />
+            <element signature="method#trimBST#0;class#Solution669#0" expanded="false" />
+            <element signature="class#Solution670#0" expanded="false" />
+            <element signature="method#maximumSwap#0;class#Solution670#0" expanded="false" />
+            <element signature="class#Solution671#0" expanded="false" />
+            <element signature="method#findSecondMinimumValue#0;class#Solution671#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution671#0" expanded="false" />
+            <element signature="method#check#0;class#Solution671#0" expanded="false" />
+            <element signature="class#Solution673#0" expanded="false" />
+            <element signature="method#findNumberOfLIS#0;class#Solution673#0" expanded="false" />
+            <element signature="class#Solution674#0" expanded="false" />
+            <element signature="method#findLengthOfLCIS#0;class#Solution674#0" expanded="false" />
+            <element signature="class#Solution678#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution678#0" expanded="false" />
+            <element signature="method#Interval#0;class#Interval#0;class#MyCalendar#0" expanded="false" />
+            <element signature="method#Interval#1;class#Interval#0;class#MyCalendar#0" expanded="false" />
+            <element signature="method#book#0;class#MyCalendar#0" expanded="false" />
+            <element signature="class#MyCalendarTwo#0" expanded="false" />
+            <element signature="class#Interval#0;class#MyCalendarTwo#0" expanded="false" />
+            <element signature="method#Interval#0;class#Interval#0;class#MyCalendarTwo#0" expanded="false" />
+            <element signature="method#Interval#1;class#Interval#0;class#MyCalendarTwo#0" expanded="false" />
+            <element signature="method#book#0;class#MyCalendarTwo#0" expanded="false" />
+            <element signature="class#Solution728#0" expanded="false" />
+            <element signature="method#selfDividingNumbers#0;class#Solution728#0" expanded="false" />
+            <element signature="method#isSelfDividing#0;class#Solution728#0" expanded="false" />
+            <element signature="class#Solution683#0" expanded="false" />
+            <element signature="method#kEmptySlots#0;class#Solution683#0" expanded="false" />
+            <element signature="class#Solution726#0" expanded="false" />
+            <element signature="method#countOfAtoms#0;class#Solution726#0" expanded="false" />
+            <element signature="method#dfs#0;class#Solution726#0" expanded="false" />
+            <element signature="method#getName#0;class#Solution726#0" expanded="false" />
+            <element signature="method#getCount#0;class#Solution726#0" expanded="false" />
+            <element signature="method#Interval#0;class#Interval#0;class#Solution699#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="871" column="36" lean-forward="true" selection-start-line="871" selection-start-column="36" selection-end-line="871" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Feb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="404" column="14" lean-forward="false" selection-start-line="404" selection-start-column="14" selection-end-line="404" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
