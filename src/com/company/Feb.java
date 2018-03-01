@@ -378,8 +378,10 @@ class Solution786 {
         int[] peek = q.peek();
         return new int[] {A[peek[0]], A[peek[1]]};
     }
+
 }
 
+// this will time out
 class Solution787 {
     int res = Integer.MAX_VALUE;
 
