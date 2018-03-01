@@ -410,3 +410,31 @@ class Solution787 {
         }
     }
 }
+
+class Solution787_BellmanFord {
+    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int K) {
+        int[] res = new int[n];
+        for (int i = 0; i< n; i++) {
+            res[i] = 100000000;
+        }
+        res[src] = 0;
+
+        for (int s = 0; s <= K; s++) {
+            int[] tmp = copy(res);
+            for(int i = 0; i< flights.length; i++) {
+                tmp[flights[i][1]] = Math.min((res[flights[i][0]] + flights[i][2]), tmp[flights[i][1]]);
+            }
+            res = tmp;
+        }
+
+        return res[dst] == 100000000 ? -1 : res[dst];
+    }
+
+    private int[] copy(int[] input) {
+        int[] res = new int[input.length];
+        for(int i = 0; i< input.length; i++) {
+            res[i] = input[i];
+        }
+        return res;
+    }
+}

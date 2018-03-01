@@ -854,7 +854,7 @@ public class Main {
 //        p.print(6);
 //        Solution788 s = new Solution788();
 //        System.out.println(s.rotatedDigits(10));
-        Solution787 s = new Solution787();
+        Solution787_BellmanFord s = new Solution787_BellmanFord();
         int[][] flights = new int[][]{{0, 1, 100}, {1, 2, 100}, {0, 2, 500}};
 
         int cheapestPrice = s.findCheapestPrice(3, flights, 0, 2, 1);
