@@ -508,3 +508,45 @@ class Solution737 {
         return false;
     }
 }
+
+/* The read4 API is defined in the parent class Reader4.
+      int read4(char[] buf); */
+
+class Reader4 {
+    public int read4(char[] buf) {
+        buf = new char[]{'a', 'b', 'c', 'd'};
+        return 4;
+    }
+}
+
+class Solution158 extends Reader4 {
+    /**
+     * @param buf Destination buffer
+     * @param n   Maximum number of characters to read
+     * @return    The number of characters read
+     */
+    char[] tmp = new char[4];
+    int startIndex = 0;
+    int count = 0;
+    public int read(char[] buf, int n) {
+        int remainCount = n;
+        while(remainCount > 0) {
+            if (count == 0) {
+                count = read4(tmp);
+                startIndex = 0;
+            }
+            if (count > 0) {
+                buf[n - remainCount] = tmp[startIndex];
+                remainCount--;
+                startIndex++;
+                count--;
+            } else {
+                break;
+            }
+        }
+        return n - remainCount;
+    }
+}
+
+
+
