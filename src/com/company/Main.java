@@ -854,10 +854,14 @@ public class Main {
 //        p.print(6);
 //        Solution788 s = new Solution788();
 //        System.out.println(s.rotatedDigits(10));
-        Solution787_BellmanFord s = new Solution787_BellmanFord();
-        int[][] flights = new int[][]{{0, 1, 100}, {1, 2, 100}, {0, 2, 500}};
-
-        int cheapestPrice = s.findCheapestPrice(3, flights, 0, 2, 1);
+//        Solution787_BellmanFord s = new Solution787_BellmanFord();
+//        int[][] flights = new int[][]{{0, 1, 100}, {1, 2, 100}, {0, 2, 500}};
+//
+//        int cheapestPrice = s.findCheapestPrice(3, flights, 0, 2, 1);
+        Solution737 s = new Solution737();
+        System.out.println(s.areSentencesSimilarTwo(new String[]{"great","acting","skills"},
+                new String[]{"fine","drama","talent"},
+                new String[][] {{"great","good"}, {"fine","good"}, {"drama","acting"}, {"skills","talent"}}));
     }
 }
 

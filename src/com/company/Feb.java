@@ -2,8 +2,6 @@ package com.company;
 
 
 
-import edu.princeton.cs.algs4.In;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.*;
@@ -438,3 +436,109 @@ class Solution787_BellmanFord {
         return res;
     }
 }
+
+class Solution791 {
+    public String customSortString(String S, String T) {
+        int[] sortArr = new int[26];
+        Arrays.fill(sortArr, Integer.MAX_VALUE);
+        for (int i = 0; i < S.length(); i++) {
+            sortArr[S.charAt(i) -'a'] = i;
+        }
+        Character[] res = new Character[T.length()];
+        for(int i = 0; i< T.length(); i++) {
+            res[i] = T.charAt(i);
+        }
+        Comparator<Character> comp = new Comparator<Character>() {
+            @Override
+            public int compare(Character o1, Character o2) {
+                return sortArr[o1-'a'] - sortArr[o2-'a'];
+            }
+        };
+        Arrays.sort(res, comp);
+        StringBuilder sb = new StringBuilder();
+        for(Character c : res) {
+            sb.append(c);
+        }
+        return sb.toString();
+    }
+}
+
+class Solution737 {
+    public boolean areSentencesSimilarTwo(String[] words1, String[] words2, String[][] pairs) {
+        Map<String, Set<String>> map = new HashMap<>();
+        int n = pairs.length;
+        for(int i = 0; i < pairs.length; i++) {
+            Set<String> set = map.getOrDefault(pairs[i][0], new HashSet<>());
+            set.add(pairs[i][1]);
+            map.put(pairs[i][0], set);
+
+            Set<String> set2 = map.getOrDefault(pairs[i][1], new HashSet<>());
+            set2.add(pairs[i][0]);
+            map.put(pairs[i][1], set2);
+        }
+
+        int m = words1.length;
+        if (m != words2.length) {
+            return false;
+        }
+        Set<String> searched = new HashSet<>();
+        for (int i = 0; i< m; i++) {
+            if (words1[i].equals(words2[i])) {continue;}
+            searched.clear();
+            if (!search(map, searched, words1[i], words2[i])) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    private boolean search(Map<String, Set<String>> map, Set<String> searched, String s, String e) {
+        if (s.equals(e)) {
+            return true;
+        }
+        searched.add(s);
+        Set<String> set = map.getOrDefault(s, new HashSet<>());
+        for (String tmp : set) {
+            if (searched.contains(tmp)) {continue;}
+            if (search(map, searched, tmp, e)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
