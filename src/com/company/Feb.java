@@ -548,5 +548,22 @@ class Solution158 extends Reader4 {
     }
 }
 
+class Solution740 {
+    public int deleteAndEarn(int[] nums) {
+        int n = 10000;
+        int[] arr = new int[n];
+        for (int i = 0; i< nums.length;i++) {
+            arr[nums[i]] += nums[i];
+        }
+        int[][] dp = new int[10000][2];
+        dp[0][1] = 0;
+        dp[0][0] = arr[0];
 
+        for (int i = 1; i< n; i++) {
+            dp[i][0] = arr[i] + dp[i][1];
+            dp[i][1] = Math.max(dp[i][1], dp[i][0]);
+        }
+        return Math.max(dp[n-1][0], dp[n-1][1]);
+    }
+}
 
